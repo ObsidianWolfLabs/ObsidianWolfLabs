@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection |
+| Pinaka-RAT                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,6 +50,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Developed A FUD RAT for Red-Teaming(Windows-Etrhical use)
 - Developed True Random Number Generator 
+
+
 
 
 
