@@ -46,11 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO-/-IEC-27001-Information-Security-Associate™-000080?&style=for-the-badge&logoColor=white" />
+ <a href="https://www.skillfront.com/Badges/25431251026226" target="_blank"> <imgsrc="https://img.shields.io/badge/SF%20ISO%2FIEC%2027001%20Information%20Security%20Associate%E2%84%A2-000080?style=for-the-badge&logo=SkillFront&logoColor=white" />
+    </a>
 </div>
 
 ## Projects
