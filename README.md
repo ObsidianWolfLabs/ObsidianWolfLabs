@@ -9,9 +9,9 @@ I am a recent graduate with a profound interest in cybersecurity and its various
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects
 
-| Projects                                         | Type         |
+| Project                                         | Type         |
 |-----------------------------------------------|----------------------------|
 | Pythgon based Malware Development                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
 | VirtualBox Cybersecurity Home Lab Setup for Splunk | <a href="https://github.com/ObsidianWolfLabs/Home-Lab">Setup and Log Analysis Using Splunk</a>|
