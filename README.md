@@ -11,10 +11,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Type         |
 |-----------------------------------------------|----------------------------|
-| Pinaka-RAT                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
-| VirtualBox Cybersecurity Home Lab: Kali Linux + Windows 10 + Splunk | <a href="https://github.com/ObsidianWolfLabs/Home-Lab">Setup and Log Analysis Using Splunk</a>|
+| Pythgon based Malware Development                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
+| VirtualBox Cybersecurity Home Lab Setup for Splunk | <a href="https://github.com/ObsidianWolfLabs/Home-Lab">Setup and Log Analysis Using Splunk</a>|
 
 
 ## Tools
