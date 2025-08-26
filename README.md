@@ -14,11 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Pinaka-RAT                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| VirtualBox Cybersecurity Home Lab: Kali Linux + Windows 10 + Splunk | <a href="https://github.com/ObsidianWolfLabs/Home-Lab">Setup and Log Analysis Using Splunk</a>|
+
 
 ## Tools
 
