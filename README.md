@@ -1,6 +1,9 @@
-# Hello, I'm Naveen Singh
-<a href="https://www.linkedin.com/in/naveensingh-cybsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3409092.png)](https://tryhackme.com/p/BushidoCat)
+# Hello, I'm Naveen Singh                                                                         
+
+ [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/BushidoCat.png)](https://tryhackme.com/p/BushidoCat)
+
+# <a href="https://www.linkedin.com/in/naveensingh-cybsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     
 
 
 I am a recent graduate with a profound interest in cybersecurity and its various domains. I plan to learn while go through different components of cybersecurity and documengt and display my progress here.
@@ -14,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project                                         | Type         |
 |-----------------------------------------------|----------------------------|
-| Pythgon based Malware Development                                      | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
+| Pinaka RAT                                     | <a href="https://github.com/ObsidianWolfLabs/Pinaka-RAT">Remote Access Trojan</a> |
 | VirtualBox Cybersecurity Home Lab Setup for Splunk | <a href="https://github.com/ObsidianWolfLabs/Home-Lab">Setup and Log Analysis Using Splunk</a>|
 
 
